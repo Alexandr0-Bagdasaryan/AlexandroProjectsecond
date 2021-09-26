@@ -1,0 +1,41 @@
+h1{
+	color: red;
+}
+
+.logo
+{
+	float:left; 
+	margin:10px; 
+	width:100px; 
+	height:50px;
+}
+.logo_pad
+{
+	width:100%; 
+	background-color:#09080D; 
+	padding: 10px; 
+	height:70px;
+}
+.logo_text
+{
+	color: #F6D62A;
+}
+
+.navigate
+{
+
+	text-align: left;
+	padding: 20px;
+	word-spacing: 10px;
+}
+
+.pre-text
+{
+	
+	text-align: left;
+}
+
+.spisok
+{
+padding: 10px;
+}
